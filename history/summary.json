@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 12167,
     "timeDay": 9825,
     "timeWeek": 12167,
@@ -114,19 +114,19 @@
     "url": "https://pr.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 8114,
-    "timeDay": 2862,
+    "timeDay": 2854,
     "timeWeek": 8114,
     "timeMonth": 8114,
     "timeYear": 8114,
     "dailyMinutesDown": {
-      "2023-07-29": 11
+      "2023-07-29": 1
     }
   },
   {
@@ -134,25 +134,27 @@
     "url": "https://sm.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/sm.mlg.ru.ico",
     "slug": "sm-medialogia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2284,
     "timeDay": 842,
     "timeWeek": 2284,
     "timeMonth": 2284,
     "timeYear": 2284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-29": 1
+    }
   },
   {
     "name": "IM Medialogia",
     "url": "https://im.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/im.mlg.ru.ico",
     "slug": "im-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -163,6 +165,8 @@
     "timeWeek": 1876,
     "timeMonth": 1876,
     "timeYear": 1876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-29": 0
+    }
   }
 ]
