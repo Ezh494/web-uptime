@@ -76,9 +76,9 @@
     "url": "https://mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.28%",
@@ -88,6 +88,7 @@
     "timeMonth": 12167,
     "timeYear": 12167,
     "dailyMinutesDown": {
+      "2023-07-29": 0,
       "2023-07-27": 21
     }
   },
@@ -151,18 +152,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mlg.ru.ico",
     "slug": "im-medialogia",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1745,
     "timeDay": 916,
     "timeWeek": 1745,
     "timeMonth": 1745,
     "timeYear": 1745,
-    "dailyMinutesDown": {
-      "2023-07-29": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
