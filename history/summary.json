@@ -114,19 +114,19 @@
     "url": "https://pr.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6792,
-    "timeDay": 2534,
-    "timeWeek": 6792,
-    "timeMonth": 6792,
-    "timeYear": 6792,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 6575,
+    "timeDay": 2623,
+    "timeWeek": 6575,
+    "timeMonth": 6575,
+    "timeYear": 6575,
     "dailyMinutesDown": {
-      "2023-07-30": 0
+      "2023-07-30": 8
     }
   },
   {
