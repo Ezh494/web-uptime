@@ -150,19 +150,19 @@
     "url": "https://im.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/im.mlg.ru.ico",
     "slug": "im-medialogia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1835,
-    "timeDay": 2260,
-    "timeWeek": 1835,
-    "timeMonth": 1835,
-    "timeYear": 1835,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1779,
+    "timeDay": 1900,
+    "timeWeek": 1779,
+    "timeMonth": 1779,
+    "timeYear": 1779,
     "dailyMinutesDown": {
-      "2023-07-30": 0
+      "2023-07-30": 7
     }
   }
 ]
