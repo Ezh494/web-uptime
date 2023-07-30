@@ -76,18 +76,19 @@
     "url": "https://mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
     "time": 11472,
-    "timeDay": 10336,
+    "timeDay": 10150,
     "timeWeek": 11472,
     "timeMonth": 11472,
     "timeYear": 11472,
     "dailyMinutesDown": {
+      "2023-07-30": 0,
       "2023-07-27": 21
     }
   },
@@ -115,19 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6575,
     "timeDay": 2623,
     "timeWeek": 6575,
     "timeMonth": 6575,
     "timeYear": 6575,
-    "dailyMinutesDown": {
-      "2023-07-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SM Medialogia",
