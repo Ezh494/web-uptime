@@ -115,10 +115,10 @@
     "url": "https://pr.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 3915,
@@ -127,6 +127,7 @@
     "timeMonth": 3915,
     "timeYear": 3915,
     "dailyMinutesDown": {
+      "2023-08-21": 1,
       "2023-08-17": 31,
       "2023-07-31": 25
     }
@@ -136,10 +137,10 @@
     "url": "https://sm.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/sm.mlg.ru.ico",
     "slug": "sm-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 1577,
@@ -148,6 +149,7 @@
     "timeMonth": 1577,
     "timeYear": 1577,
     "dailyMinutesDown": {
+      "2023-08-21": 1,
       "2023-07-31": 25
     }
   },
@@ -156,19 +158,19 @@
     "url": "https://im.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/im.mlg.ru.ico",
     "slug": "im-medialogia",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1526,
     "timeDay": 2435,
     "timeWeek": 2165,
     "timeMonth": 1526,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2023-08-21": 7,
+      "2023-08-21": 0,
       "2023-07-31": 25
     }
   }
