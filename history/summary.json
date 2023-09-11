@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 272,
     "timeWeek": 326,
     "timeMonth": 291,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2023-09-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -120,10 +118,10 @@
     "url": "https://pr.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.66%",
     "time": 3833,
@@ -132,6 +130,7 @@
     "timeMonth": 3629,
     "timeYear": 3833,
     "dailyMinutesDown": {
+      "2023-09-11": 0,
       "2023-09-08": 15,
       "2023-09-06": 16,
       "2023-09-03": 26,
