@@ -6,7 +6,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 99,
     "timeMonth": 108,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-28": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -79,13 +81,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 9010,
-    "timeDay": 9692,
+    "timeDay": 5315,
     "timeWeek": 7374,
     "timeMonth": 9662,
     "timeYear": 9010,
@@ -124,12 +126,12 @@
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.64%",
     "time": 3462,
     "timeDay": 2413,
-    "timeWeek": 2657,
-    "timeMonth": 3085,
+    "timeWeek": 2647,
+    "timeMonth": 3089,
     "timeYear": 3462,
     "dailyMinutesDown": {
       "2023-09-24": 15,
@@ -161,8 +163,8 @@
     "uptimeYear": "99.79%",
     "time": 1168,
     "timeDay": 802,
-    "timeWeek": 834,
-    "timeMonth": 909,
+    "timeWeek": 827,
+    "timeMonth": 911,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-09-23": 44,
