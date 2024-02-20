@@ -1,7 +1,7 @@
 url: https://sm.mlg.ru
-status: up
-code: 200
-responseTime: 626
-lastUpdated: 2024-02-19T23:12:20.397Z
+status: down
+code: 503
+responseTime: 1100
+lastUpdated: 2024-02-20T16:55:07.064Z
 startTime: 2023-07-27T08:22:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
