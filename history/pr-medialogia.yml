@@ -1,7 +1,7 @@
 url: https://pr.mlg.ru
-status: up
-code: 200
-responseTime: 2501
-lastUpdated: 2024-12-17T23:16:10.376Z
+status: down
+code: 503
+responseTime: 929
+lastUpdated: 2024-12-18T11:22:50.690Z
 startTime: 2023-07-27T08:22:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
