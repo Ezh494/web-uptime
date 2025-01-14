@@ -111,9 +111,9 @@
     "url": "https://mail.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -123,6 +123,7 @@
     "timeMonth": 2756,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2025-01-14": 0,
       "2024-10-24": 67,
       "2024-04-10": 367,
       "2024-04-09": 184
@@ -134,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
