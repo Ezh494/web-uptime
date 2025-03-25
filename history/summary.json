@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.48%",
-    "uptimeYear": "95.59%",
+    "uptimeMonth": "47.50%",
+    "uptimeYear": "95.50%",
     "time": 2074,
     "timeDay": 5140,
     "timeWeek": 3033,
     "timeMonth": 2257,
     "timeYear": 2157,
     "dailyMinutesDown": {
-      "2025-03-25": 37,
+      "2025-03-25": 466,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -184,9 +184,9 @@
     "url": "https://sm.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/sm.mlg.ru.ico",
     "slug": "sm-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 748,
     "timeMonth": 765,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "IM Medialogia",
