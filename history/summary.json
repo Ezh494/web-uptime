@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 87,
-    "timeWeek": 91,
+    "timeDay": 86,
+    "timeWeek": 90,
     "timeMonth": 138,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 45,
-    "timeWeek": 135,
+    "timeDay": 49,
+    "timeWeek": 130,
     "timeMonth": 120,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 94,
-    "timeWeek": 320,
-    "timeMonth": 336,
+    "time": 311,
+    "timeDay": 158,
+    "timeWeek": 318,
+    "timeMonth": 330,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -85,16 +85,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 4712,
-    "timeDay": 3636,
-    "timeWeek": 3671,
-    "timeMonth": 5926,
-    "timeYear": 4897,
+    "timeDay": 3253,
+    "timeWeek": 3501,
+    "timeMonth": 5941,
+    "timeYear": 4885,
     "dailyMinutesDown": {
       "2024-09-05": 52,
       "2024-08-01": 18,
       "2024-07-11": 18,
-      "2024-04-10": 114,
-      "2024-04-09": 4
+      "2024-04-10": 114
     }
   },
   {
@@ -103,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "94.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.46%",
-    "uptimeYear": "91.75%",
-    "time": 2114,
-    "timeDay": 2624,
-    "timeWeek": 1928,
-    "timeMonth": 2667,
-    "timeYear": 2210,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "91.48%",
+    "time": 2116,
+    "timeDay": 2467,
+    "timeWeek": 1957,
+    "timeMonth": 2698,
+    "timeYear": 2212,
     "dailyMinutesDown": {
-      "2025-04-08": 37,
+      "2025-04-09": 37,
+      "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -147,8 +147,7 @@
       "2025-03-09": 929,
       "2025-01-14": 18,
       "2024-10-24": 67,
-      "2024-04-10": 367,
-      "2024-04-09": 184
+      "2024-04-10": 367
     }
   },
   {
@@ -157,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
     "status": "up",
-    "uptime": "95.09%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
-    "time": 2483,
-    "timeDay": 2766,
-    "timeWeek": 2441,
-    "timeMonth": 3237,
-    "timeYear": 2545,
+    "time": 2485,
+    "timeDay": 2902,
+    "timeWeek": 2458,
+    "timeMonth": 3260,
+    "timeYear": 2546,
     "dailyMinutesDown": {
       "2025-03-20": 23,
       "2025-03-12": 24,
@@ -186,8 +185,7 @@
       "2024-08-01": 16,
       "2024-07-08": 19,
       "2024-04-15": 75,
-      "2024-04-10": 161,
-      "2024-04-09": 37
+      "2024-04-10": 161
     }
   },
   {
@@ -202,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 715,
-    "timeWeek": 782,
-    "timeMonth": 1031,
-    "timeYear": 901,
+    "timeDay": 1174,
+    "timeWeek": 758,
+    "timeMonth": 1044,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -220,15 +218,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 973,
-    "timeDay": 816,
-    "timeWeek": 826,
-    "timeMonth": 1057,
+    "timeDay": 779,
+    "timeWeek": 801,
+    "timeMonth": 1058,
     "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-02-26": 60,
       "2024-04-11": 51,
-      "2024-04-10": 116,
-      "2024-04-09": 15
+      "2024-04-10": 116
     }
   }
 ]
