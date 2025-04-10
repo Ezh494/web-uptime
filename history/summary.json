@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 86,
-    "timeWeek": 90,
-    "timeMonth": 138,
+    "timeDay": 108,
+    "timeWeek": 86,
+    "timeMonth": 139,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 49,
-    "timeWeek": 130,
-    "timeMonth": 120,
+    "time": 219,
+    "timeDay": 36,
+    "timeWeek": 110,
+    "timeMonth": 119,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 158,
-    "timeWeek": 318,
-    "timeMonth": 330,
+    "time": 312,
+    "timeDay": 406,
+    "timeWeek": 332,
+    "timeMonth": 332,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -79,21 +79,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 4712,
-    "timeDay": 3253,
-    "timeWeek": 3501,
-    "timeMonth": 5941,
-    "timeYear": 4885,
+    "uptimeYear": "99.97%",
+    "time": 4717,
+    "timeDay": 6335,
+    "timeWeek": 3821,
+    "timeMonth": 6028,
+    "timeYear": 4732,
     "dailyMinutesDown": {
       "2024-09-05": 52,
       "2024-08-01": 18,
-      "2024-07-11": 18,
-      "2024-04-10": 114
+      "2024-07-11": 18
     }
   },
   {
@@ -102,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
     "status": "up",
-    "uptime": "94.99%",
+    "uptime": "94.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "91.48%",
-    "time": 2116,
-    "timeDay": 2467,
-    "timeWeek": 1957,
-    "timeMonth": 2698,
+    "uptimeYear": "91.24%",
+    "time": 2117,
+    "timeDay": 1862,
+    "timeWeek": 1953,
+    "timeMonth": 2690,
     "timeYear": 2212,
     "dailyMinutesDown": {
-      "2025-04-09": 37,
+      "2025-04-10": 37,
+      "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -146,8 +146,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 929,
       "2025-01-14": 18,
-      "2024-10-24": 67,
-      "2024-04-10": 367
+      "2024-10-24": 67
     }
   },
   {
@@ -156,16 +155,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pr.mlg.ru.ico",
     "slug": "pr-medialogia",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
-    "time": 2485,
-    "timeDay": 2902,
-    "timeWeek": 2458,
-    "timeMonth": 3260,
-    "timeYear": 2546,
+    "time": 2491,
+    "timeDay": 5615,
+    "timeWeek": 2844,
+    "timeMonth": 3346,
+    "timeYear": 2555,
     "dailyMinutesDown": {
       "2025-03-20": 23,
       "2025-03-12": 24,
@@ -184,8 +183,7 @@
       "2024-08-05": 35,
       "2024-08-01": 16,
       "2024-07-08": 19,
-      "2024-04-15": 75,
-      "2024-04-10": 161
+      "2024-04-15": 75
     }
   },
   {
@@ -200,9 +198,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 1174,
-    "timeWeek": 758,
-    "timeMonth": 1044,
+    "timeDay": 663,
+    "timeWeek": 743,
+    "timeMonth": 1036,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -216,16 +214,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 973,
-    "timeDay": 779,
-    "timeWeek": 801,
-    "timeMonth": 1058,
-    "timeYear": 1037,
+    "timeDay": 502,
+    "timeWeek": 694,
+    "timeMonth": 1044,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-02-26": 60,
-      "2024-04-11": 51,
-      "2024-04-10": 116
+      "2024-04-11": 51
     }
   }
 ]
