@@ -92,9 +92,7 @@
     "timeWeek": 5156,
     "timeMonth": 5552,
     "timeYear": 5249,
-    "dailyMinutesDown": {
-      "2024-09-05": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail MLG",
@@ -202,9 +200,9 @@
     "slug": "pr-medialogia",
     "status": "up",
     "uptime": "96.03%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 3075,
     "timeDay": 2373,
@@ -212,7 +210,6 @@
     "timeMonth": 3527,
     "timeYear": 3381,
     "dailyMinutesDown": {
-      "2025-09-04": 8,
       "2025-08-05": 26,
       "2025-08-04": 67,
       "2025-07-09": 57,
