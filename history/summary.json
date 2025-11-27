@@ -83,19 +83,19 @@
     "url": "https://mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 5109,
-    "timeDay": 6022,
-    "timeWeek": 4519,
-    "timeMonth": 5446,
-    "timeYear": 5170,
+    "time": 5117,
+    "timeDay": 6535,
+    "timeWeek": 4857,
+    "timeMonth": 5507,
+    "timeYear": 5177,
     "dailyMinutesDown": {
-      "2025-11-27": 0
+      "2025-11-27": 22
     }
   },
   {
