@@ -83,18 +83,20 @@
     "url": "https://mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mlg.ru.ico",
     "slug": "site-mlg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5098,
-    "timeDay": 3231,
-    "timeWeek": 3905,
-    "timeMonth": 5344,
-    "timeYear": 5161,
-    "dailyMinutesDown": {}
+    "time": 5109,
+    "timeDay": 6022,
+    "timeWeek": 4519,
+    "timeMonth": 5446,
+    "timeYear": 5170,
+    "dailyMinutesDown": {
+      "2025-11-27": 0
+    }
   },
   {
     "name": "Mail MLG",
@@ -102,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
     "status": "up",
-    "uptime": "90.86%",
+    "uptime": "90.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
