@@ -59,7 +59,7 @@
     "timeDay": 305,
     "timeWeek": 356,
     "timeMonth": 292,
-    "timeYear": 328,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -95,7 +95,7 @@
     "timeDay": 2866,
     "timeWeek": 4937,
     "timeMonth": 5080,
-    "timeYear": 5275,
+    "timeYear": 5280,
     "dailyMinutesDown": {
       "2026-01-20": 26,
       "2025-12-20": 16,
@@ -107,18 +107,19 @@
     "url": "https://mail.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/mail.mlg.ru.ico",
     "slug": "mail-mlg",
-    "status": "up",
+    "status": "down",
     "uptime": "91.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.75%",
-    "time": 2469,
+    "time": 2471,
     "timeDay": 1713,
     "timeWeek": 2541,
     "timeMonth": 2473,
-    "timeYear": 2494,
+    "timeYear": 2497,
     "dailyMinutesDown": {
+      "2026-02-02": 0,
       "2025-05-25": 1300,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
@@ -214,7 +215,7 @@
     "timeDay": 2609,
     "timeWeek": 2991,
     "timeMonth": 3102,
-    "timeYear": 3634,
+    "timeYear": 3637,
     "dailyMinutesDown": {
       "2026-01-14": 27,
       "2025-12-31": 20,
@@ -250,7 +251,7 @@
     "timeDay": 573,
     "timeWeek": 725,
     "timeMonth": 853,
-    "timeYear": 1121,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-04-17": 40
     }
@@ -270,7 +271,7 @@
     "timeDay": 595,
     "timeWeek": 1404,
     "timeMonth": 1088,
-    "timeYear": 1204,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2025-02-26": 60
     }
