@@ -121,7 +121,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.95%",
+    "uptimeYear": "91.00%",
     "time": 2543,
     "timeDay": 2343,
     "timeWeek": 2300,
@@ -212,18 +212,20 @@
     "url": "https://sm.mlg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/sm.mlg.ru.ico",
     "slug": "sm-medialogia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1124,
+    "time": 1126,
     "timeDay": 1005,
     "timeWeek": 1447,
     "timeMonth": 1049,
     "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "IM Medialogia",
